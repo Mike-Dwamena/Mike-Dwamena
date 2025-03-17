@@ -1,3 +1,5 @@
 .title {font-size: 80px; color: black;}
 
-.portfolio {border-radius: 0 50px 0 50px; border: 20px black;}
+.portfolio {border-radius: 0 50px 0 50px; border: 20px black;
+width: 20px;
+height: 30px;}
