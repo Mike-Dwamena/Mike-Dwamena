@@ -1,4 +1,4 @@
-body{background-color: green;}
+body{background-color: black;}
 
 .title {font-size: 80px; color: black;}
 
@@ -7,6 +7,6 @@ font-family: Georgia;
 text-align: center;
 color: white}
 
-.portfolio {border-radius: 0 50px 0 50px; border: 20px black;
-width: 20px;
+.portfolio {border-radius: 0 50px 0 50px; border: 200px black;
+width: 200px;
 height: 30px;}
