@@ -1,4 +1,9 @@
+
 .title {font-size: 80px; color: black;}
+
+.subtitle {font-size: 80px; 
+font-family: Georgia;
+color: white}
 
 .portfolio {border-radius: 0 50px 0 50px; border: 20px black;
 width: 20px;
